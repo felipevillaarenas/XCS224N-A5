@@ -212,6 +212,7 @@ def main():
     """ Main func.
     """
     args = docopt(__doc__)
+    #args={'1a':False, '1b':False, '1f':False, '2a':False, '2b':False, '2c':False, '2d':True}
 
     # Check Python & PyTorch Versions
     assert (sys.version_info >= (3, 5)), "Please update your installation of Python to version >= 3.5"
