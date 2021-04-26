@@ -1,4 +1,4 @@
-# Sub-word modeling and convolutional networks – and applies them to the NMT system
+# Subword modeling and CNNs applied to NMT Systems
 
 Create virtual environment
 ```bash
