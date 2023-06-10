@@ -1,5 +1,7 @@
 # Subword modeling and CNNs applied to NMT Systems
 
+> **Stanford Certification**
+
 Create virtual environment
 ```bash
 conda env create --file local_env.yml
